@@ -20,6 +20,7 @@ public class Suhu {
         switch (a) {
             case 1:
                 celcius c = new celcius();
+
                 c.konversi();
                 c.cetak();
                 break;
